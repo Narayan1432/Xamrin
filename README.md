@@ -1,2 +1,0 @@
-# Xamrin
-Android_Code
